@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/shalfey-avatar.jpg" width="150" alt="Shalfey Predskazatel" />
+  <img src="assets/shalfey-avatar-rounded.svg" width="150" alt="Shalfey Predskazatel" />
 </p>
 
 <h1 align="center">Шалфей Предсказатель</h1>
