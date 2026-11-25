@@ -29,3 +29,13 @@ A portable Windows utility that adds NVIDIA frame generation, RTX Video Super Re
 Портативная утилита для Windows. Добавляет генерацию кадров NVIDIA, RTX Video Super Resolution и HDR поверх выбранного окна или монитора.
 
 **[Download / Скачать](https://github.com/Shalfey-Predskazatel/Panevanta/releases/latest)** · [Project / Проект](https://github.com/Shalfey-Predskazatel/Panevanta) · [Report an issue / Сообщить о проблеме](https://github.com/Shalfey-Predskazatel/Panevanta/issues)
+
+## Accovell
+
+[![Accovell by Shalfey Predskazatel](https://raw.githubusercontent.com/Shalfey-Predskazatel/Accovell/main/assets/accovell-cover.png)](https://github.com/Shalfey-Predskazatel/Accovell)
+
+A local Windows dashboard for Codex profiles, usage information, shared settings, and a local request route.
+
+Локальная панель Windows для профилей Codex, сведений об использовании, общих настроек и маршрута запросов.
+
+**[Download / Скачать](https://github.com/Shalfey-Predskazatel/Accovell/releases/latest)** · [Source / Исходники](https://github.com/Shalfey-Predskazatel/Accovell) · [Report an issue / Сообщить о проблеме](https://github.com/Shalfey-Predskazatel/Accovell/issues)
