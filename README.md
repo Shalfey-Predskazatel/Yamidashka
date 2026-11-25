@@ -1,22 +1,21 @@
 <p align="center">
-  <img src="assets/avatar.png" width="150" alt="Yamidashka" />
+  <img src="assets/shalfey-avatar.jpg" width="150" alt="Shalfey Predskazatel" />
 </p>
 
-<h1 align="center">Yamidashka</h1>
+<h1 align="center">Шалфей Предсказатель</h1>
+<p align="center">Shalfey Predskazatel</p>
 <p align="center"><strong>Красивые и бесплатные программы</strong><br />Beautiful, useful and free desktop software</p>
 
 Создаю и публикую программы для Windows: удобные инструменты с понятным интерфейсом. Здесь можно скачать готовые сборки, посмотреть исходники и сообщить о проблемах.
 
 I build and share free Windows apps with thoughtful interfaces. Explore the source, download a release, or report an issue in the project repository.
 
-## RTX Video Player
+## Kinetrell
 
-[![RTX Video Player — VFG + RIFE](https://raw.githubusercontent.com/Yamidashka/rtx-video-player/main/assets/banner.png)](https://github.com/Yamidashka/rtx-video-player)
+[![Kinetrell Duo by Shalfey Predskazatel](https://raw.githubusercontent.com/Yamidashka/rtx-video-player/main/assets/kinetrell-duo-cover.png)](https://github.com/Yamidashka/rtx-video-player/releases/latest)
 
-Портативный проигрыватель на базе mpv: генерация кадров VFG или RIFE, RTX Video Super Resolution и HDR. Интерфейс на русском и английском.
+Портативный плеер для Windows с генерацией кадров VFG и RIFE, RTX Video Super Resolution и HDR. Доступны три редакции — **VFG**, **RIFE** и **Duo**. Maxine входит в VFG и Duo.
 
-Portable mpv-based video player with VFG or RIFE frame interpolation, RTX Video Super Resolution and HDR. Russian and English interface.
+A portable Windows video player with NVIDIA VFG, RIFE, RTX Video Super Resolution and HDR.
 
 **[Скачать / Download](https://github.com/Yamidashka/rtx-video-player/releases/latest)** · [Исходники / Source](https://github.com/Yamidashka/rtx-video-player) · [Сообщить о проблеме / Report an issue](https://github.com/Yamidashka/rtx-video-player/issues)
-
-Для VFG отдельно нужен NVIDIA Maxine SDK с компонентом VFG. В RIFE включены DirectML и модели. Требования и лицензии указаны в репозитории программы.
