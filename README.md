@@ -2,40 +2,33 @@
   <img src="assets/shalfey-avatar-rounded.svg" width="150" alt="Shalfey Predskazatel" />
 </p>
 
-<h1 align="center">Шалфей Предсказатель</h1>
-<p align="center">Shalfey Predskazatel</p>
-<p align="center"><strong>Красивые и бесплатные программы</strong><br />Beautiful, useful and free desktop software</p>
+<h1 align="center">Shalfey Predskazatel</h1>
+<p align="center"><strong>Beautiful, useful and free desktop software</strong></p>
 
-Создаю и публикую программы для Windows: удобные инструменты с понятным интерфейсом. Здесь можно скачать готовые сборки, посмотреть исходники и сообщить о проблемах.
+<p align="center"><strong>English</strong> · <a href="README.ru.md">Русский</a></p>
 
-I build and share free Windows apps with thoughtful interfaces. Explore the source, download a release, or report an issue in the project repository.
+I build and publish free Windows apps with clear, useful interfaces. Download ready-to-use releases, browse the source, or report a problem in the project repository.
 
 ## Kinetrell
 
-[![Kinetrell Duo by Shalfey Predskazatel](https://raw.githubusercontent.com/Shalfey-Predskazatel/Kinetrell/main/assets/kinetrell-duo-cover.png)](https://github.com/Shalfey-Predskazatel/Kinetrell/releases/latest)
+[![Kinetrell Duo by Shalfey Predskazatel](https://raw.githubusercontent.com/Shalfey-Predskazatel/Kinetrell/main/assets/social-preview.png)](https://github.com/Shalfey-Predskazatel/Kinetrell/releases/latest)
 
-Портативный плеер для Windows с генерацией кадров VFG и RIFE, RTX Video Super Resolution и HDR. Доступны три редакции — **VFG**, **RIFE** и **Duo**. Maxine входит в VFG и Duo.
+A portable Windows video player with NVIDIA VFG, RIFE, RTX Video Super Resolution, and HDR. Choose the VFG, RIFE, or Duo edition; Maxine is included in VFG and Duo.
 
-A portable Windows video player with NVIDIA VFG, RIFE, RTX Video Super Resolution and HDR.
-
-**[Скачать / Download](https://github.com/Shalfey-Predskazatel/Kinetrell/releases/latest)** · [Исходники / Source](https://github.com/Shalfey-Predskazatel/Kinetrell) · [Сообщить о проблеме / Report an issue](https://github.com/Shalfey-Predskazatel/Kinetrell/issues)
+**[Download](https://github.com/Shalfey-Predskazatel/Kinetrell/releases/latest)** · [Source](https://github.com/Shalfey-Predskazatel/Kinetrell) · [Report an issue](https://github.com/Shalfey-Predskazatel/Kinetrell/issues)
 
 ## Panevanta
 
-[![Panevanta by Shalfey Predskazatel](https://raw.githubusercontent.com/Shalfey-Predskazatel/Panevanta/main/assets/panevanta-cover.png)](https://github.com/Shalfey-Predskazatel/Panevanta)
+[![Panevanta by Shalfey Predskazatel](https://raw.githubusercontent.com/Shalfey-Predskazatel/Panevanta/main/assets/social-preview.png)](https://github.com/Shalfey-Predskazatel/Panevanta/releases/latest)
 
 A portable Windows utility that adds NVIDIA frame generation, RTX Video Super Resolution, and HDR to a selected window or display.
 
-Портативная утилита для Windows. Добавляет генерацию кадров NVIDIA, RTX Video Super Resolution и HDR поверх выбранного окна или монитора.
-
-**[Download / Скачать](https://github.com/Shalfey-Predskazatel/Panevanta/releases/latest)** · [Project / Проект](https://github.com/Shalfey-Predskazatel/Panevanta) · [Report an issue / Сообщить о проблеме](https://github.com/Shalfey-Predskazatel/Panevanta/issues)
+**[Download](https://github.com/Shalfey-Predskazatel/Panevanta/releases/latest)** · [Source](https://github.com/Shalfey-Predskazatel/Panevanta) · [Report an issue](https://github.com/Shalfey-Predskazatel/Panevanta/issues)
 
 ## Accovell
 
-[![Accovell by Shalfey Predskazatel](https://raw.githubusercontent.com/Shalfey-Predskazatel/Accovell/main/assets/accovell-cover.png)](https://github.com/Shalfey-Predskazatel/Accovell)
+[![Accovell by Shalfey Predskazatel](https://raw.githubusercontent.com/Shalfey-Predskazatel/Accovell/main/assets/social-preview.png)](https://github.com/Shalfey-Predskazatel/Accovell/releases/latest)
 
 A local Windows dashboard for Codex profiles, usage information, shared settings, and a local request route.
 
-Локальная панель Windows для профилей Codex, сведений об использовании, общих настроек и маршрута запросов.
-
-**[Download / Скачать](https://github.com/Shalfey-Predskazatel/Accovell/releases/latest)** · [Source / Исходники](https://github.com/Shalfey-Predskazatel/Accovell) · [Report an issue / Сообщить о проблеме](https://github.com/Shalfey-Predskazatel/Accovell/issues)
+**[Download](https://github.com/Shalfey-Predskazatel/Accovell/releases/latest)** · [Source](https://github.com/Shalfey-Predskazatel/Accovell) · [Report an issue](https://github.com/Shalfey-Predskazatel/Accovell/issues)
