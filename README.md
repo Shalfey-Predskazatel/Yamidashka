@@ -19,3 +19,13 @@ I build and share free Windows apps with thoughtful interfaces. Explore the sour
 A portable Windows video player with NVIDIA VFG, RIFE, RTX Video Super Resolution and HDR.
 
 **[Скачать / Download](https://github.com/Yamidashka/kinetrell/releases/latest)** · [Исходники / Source](https://github.com/Yamidashka/kinetrell) · [Сообщить о проблеме / Report an issue](https://github.com/Yamidashka/kinetrell/issues)
+
+## Panevanta
+
+[![Panevanta by Shalfey Predskazatel](https://raw.githubusercontent.com/Shalfey-Predskazatel/panevanta/main/assets/panevanta-cover.png)](https://github.com/Shalfey-Predskazatel/panevanta)
+
+A portable Windows utility that adds NVIDIA frame generation, RTX Video Super Resolution, and HDR to a selected window or display.
+
+Портативная утилита для Windows. Добавляет генерацию кадров NVIDIA, RTX Video Super Resolution и HDR поверх выбранного окна или монитора.
+
+**[Download / Скачать](https://github.com/Shalfey-Predskazatel/panevanta/releases/latest)** · [Project / Проект](https://github.com/Shalfey-Predskazatel/panevanta) · [Report an issue / Сообщить о проблеме](https://github.com/Shalfey-Predskazatel/panevanta/issues)
