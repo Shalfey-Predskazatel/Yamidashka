@@ -11,7 +11,7 @@ I build and share free Windows apps with clear, thoughtful interfaces. Download 
 
 ## Kinetrell
 
-[![Kinetrell Duo by Shalfey Predskazatel](https://raw.githubusercontent.com/Shalfey-Predskazatel/Kinetrell/main/assets/kinetrell-duo-cover.png?v=0e8431f7a230a8d9)](https://github.com/Shalfey-Predskazatel/Kinetrell/releases/latest)
+[![Kinetrell Duo by Shalfey Predskazatel](https://raw.githubusercontent.com/Shalfey-Predskazatel/Kinetrell/0e8431f7a230a8d979173cbaeaf0a7b68ff27c88/assets/kinetrell-duo-cover.png)](https://github.com/Shalfey-Predskazatel/Kinetrell/releases/latest)
 
 A portable Windows video player with NVIDIA VFG and RIFE frame interpolation, RTX Video Super Resolution, and HDR. Choose the VFG, RIFE, or Duo edition. Maxine is included with VFG and Duo.
 
