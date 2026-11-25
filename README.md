@@ -7,19 +7,19 @@
 
 <p align="center"><strong>English</strong> · <a href="README.ru.md">Русский</a></p>
 
-I build and publish free Windows apps with clear, useful interfaces. Download ready-to-use releases, browse the source, or report a problem in the project repository.
+I build and share free Windows apps with clear, thoughtful interfaces. Download a release, explore the source code, or report a problem in the project repository.
 
 ## Kinetrell
 
-[![Kinetrell Duo by Shalfey Predskazatel](https://raw.githubusercontent.com/Shalfey-Predskazatel/Kinetrell/main/assets/social-preview.png)](https://github.com/Shalfey-Predskazatel/Kinetrell/releases/latest)
+[![Kinetrell Duo by Shalfey Predskazatel](https://raw.githubusercontent.com/Shalfey-Predskazatel/Kinetrell/main/assets/kinetrell-duo-cover.png)](https://github.com/Shalfey-Predskazatel/Kinetrell/releases/latest)
 
-A portable Windows video player with NVIDIA VFG, RIFE, RTX Video Super Resolution, and HDR. Choose the VFG, RIFE, or Duo edition; Maxine is included in VFG and Duo.
+A portable Windows video player with NVIDIA VFG and RIFE frame interpolation, RTX Video Super Resolution, and HDR. Choose the VFG, RIFE, or Duo edition. Maxine is included with VFG and Duo.
 
 **[Download](https://github.com/Shalfey-Predskazatel/Kinetrell/releases/latest)** · [Source](https://github.com/Shalfey-Predskazatel/Kinetrell) · [Report an issue](https://github.com/Shalfey-Predskazatel/Kinetrell/issues)
 
 ## Panevanta
 
-[![Panevanta by Shalfey Predskazatel](https://raw.githubusercontent.com/Shalfey-Predskazatel/Panevanta/main/assets/social-preview.png)](https://github.com/Shalfey-Predskazatel/Panevanta/releases/latest)
+[![Panevanta by Shalfey Predskazatel](https://raw.githubusercontent.com/Shalfey-Predskazatel/Panevanta/main/assets/panevanta-cover.png)](https://github.com/Shalfey-Predskazatel/Panevanta/releases/latest)
 
 A portable Windows utility that adds NVIDIA frame generation, RTX Video Super Resolution, and HDR to a selected window or display.
 
@@ -27,7 +27,7 @@ A portable Windows utility that adds NVIDIA frame generation, RTX Video Super Re
 
 ## Accovell
 
-[![Accovell by Shalfey Predskazatel](https://raw.githubusercontent.com/Shalfey-Predskazatel/Accovell/main/assets/social-preview.png)](https://github.com/Shalfey-Predskazatel/Accovell/releases/latest)
+[![Accovell by Shalfey Predskazatel](https://raw.githubusercontent.com/Shalfey-Predskazatel/Accovell/main/assets/accovell-cover.png)](https://github.com/Shalfey-Predskazatel/Accovell/releases/latest)
 
 A local Windows dashboard for Codex profiles, usage information, shared settings, and a local request route.
 
